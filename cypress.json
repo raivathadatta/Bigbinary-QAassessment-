@@ -1,0 +1,4 @@
+{
+    "baseUrl": "https://www.aceinvoice.com/",
+    "defaultCommandTimeout": 5000
+}
